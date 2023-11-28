@@ -1,4 +1,2 @@
 /.vscode
-/collegeAssignmentTopic2.sh
-/collegeAssignmentTopic3.sh
-/collegeAssignmentTopic4.sh
+*.sh
