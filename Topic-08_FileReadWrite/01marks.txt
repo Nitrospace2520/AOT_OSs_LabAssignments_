@@ -1,0 +1,5 @@
+01 Bruce 99
+02 Clark 85
+03 Diana 61
+04 Arthur 49
+05 Barry 39
